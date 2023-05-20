@@ -13,8 +13,6 @@ import urllib
 data_root = 'D:\ECOSTRESS\Result\\'
 
 
-''
-
 class Download_ECO_Demo:
 
     def __init__(self):
